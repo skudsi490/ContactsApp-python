@@ -1,0 +1,34 @@
+[
+    {
+        "first_name": "Sami",
+        "last_name": "Kudsi",
+        "phone": "111111",
+        "email": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "first_name": "Tony",
+        "last_name": "Jaa",
+        "phone": "2323232",
+        "email": "Tony@example.com",
+        "notes": "Actor",
+        "url": ""
+    },
+    {
+        "first_name": "Johny",
+        "last_name": "Dbene",
+        "phone": "12332121",
+        "email": "Johny@example.com",
+        "notes": "Fulll Stack Developer",
+        "url": ""
+    },
+    {
+        "first_name": "Rami",
+        "last_name": "Kudsi",
+        "phone": "98932392392",
+        "email": "Rami@gmail.com",
+        "notes": "Rami is my bro",
+        "url": ""
+    }
+]
